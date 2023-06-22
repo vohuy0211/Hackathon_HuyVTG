@@ -1,0 +1,19 @@
+{
+  "name": "hackathon_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "node-html-parser": "^6.1.5",
+    "nodemon": "^2.0.22",
+    "query-string": "^8.1.0"
+  }
+}
